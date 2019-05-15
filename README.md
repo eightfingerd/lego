@@ -1,2 +1,2 @@
 # lego
-a gui lib.
+a gui library.
